@@ -1,5 +1,7 @@
 <script>
-    import App from '../App.svelte';
+    import AboutMe from "../components/body/AboutMe.svelte";
 </script>
 
-<App />
+
+<AboutMe />
+
