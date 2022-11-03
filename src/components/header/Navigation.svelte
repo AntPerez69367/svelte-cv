@@ -1,7 +1,7 @@
 <script>
 </script>
 
-<nav class="navbar">
+<nav class="navbar right-side">
   <div class="container">
     <div class="navbar-brand">
       <span class="navbar-burger burger" data-target="navbarMenu">
@@ -51,3 +51,9 @@
     </div>
   </div>
 </nav>
+
+<style>
+  .right-side {
+    align-items: center;
+  }
+</style>
